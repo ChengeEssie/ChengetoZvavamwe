@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChengetoZvavamwe
 - 👀 I’m interested in applying data science for industrial process optimization.
 - 🌱 I’m currently learning about process data analytics and machine learning.
-- 💞️ I’m looking to collaborate on application of data analytics and machine learning in the mining and energy sectors.
+- 💞️ I’m looking to collaborate on data analytics and machine learning application in mining and energy sectors.
 - 📫 How to reach me: Let's connect on LinkedIn https://www.linkedin.com/in/chengeto-zvavamwe-06b021120/
 
 <!---
